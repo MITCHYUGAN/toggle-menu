@@ -1,0 +1,18 @@
+{
+  "name": "@mitchyugan/toggle-menu",
+  "version": "1.0.0",
+  "description": "Toggle a Munu ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MITCHYUGAN/toggle-menu"
+  },
+  "keywords": [
+    "toggmen"
+  ],
+  "author": "mitchyugan",
+  "license": "ISC"
+}
